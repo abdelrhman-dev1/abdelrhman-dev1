@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:02569B,100:00B4D8&height=210&section=header&text=Abdelrahman%20Mustafa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20CS%20Student%20at%20Tanta%20University&descAlignY=55&descSize=18"/>
 
-<a href="https://github.com/abdulrahman-developer">
+<a href="https://github.com/abdelrhman-dev1">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Abdelrahman;Flutter+%26+Dart+Developer;Building+Beautiful+Mobile+Apps;Always+Learning+New+Things" alt="Typing SVG"/>
 </a>
 
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="abdelrhmaneltohamy494@gmail.com"/>
 </a>
 
-<a href="https://github.com/abdulrahman-developer">
+<a href="https://github.com/abdelrhman-dev1">
 <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -106,13 +106,13 @@ class Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulrahman-developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelrhman-dev1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=FFFFFF" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrhman-dev1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=abdulrahman-developer&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=abdelrhman-dev1&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" alt="GitHub Streak"/>
 
 </div>
 
@@ -126,7 +126,7 @@ class Developer {
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://github.com/abdulrahman-developer">
+<a href="https://github.com/abdelrhman-dev1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -137,9 +137,3 @@ class Developer {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,50:02569B,100:0D1117&height=120&section=footer"/>
 
 </div>
-<h3>Thanks for visiting! 💙</h3>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00B4D8,50:02569B,100:0D1117&amp;height=120&amp;section=footer"/>
-
-</div>
-
